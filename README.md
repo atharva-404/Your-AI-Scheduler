@@ -103,17 +103,6 @@ http://localhost:8501
 
 ---
 
-## ❓ FAQ
-
-### Q: I'm getting a 403 or 404 from Google Calendar API
-- Make sure the service account has access to your calendar
-- Enable the Google Calendar API in your Google Cloud project
-
-### Q: Event is not showing on my calendar
-- Share your calendar with the service account (see Step 4 above)
-
----
-
 ## 📄 License
 
 This project is for educational/demo use only.
